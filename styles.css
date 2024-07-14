@@ -1,0 +1,27 @@
+body{
+    background: black;
+    color: white;
+    text-align: center;
+}h1{
+    font-size: 6vw;
+    color: darkgray;
+
+}
+p{
+    font-size: 2vw;
+    font-weight: bolder;
+}
+.guessField{
+    font-size: 1.5vw;
+}
+.submit-btn{
+    background-color: darkgray;
+    font-size: 2vw;
+    margin-top: 2vw;
+    border-radius: 35%;
+}
+#guess{
+    font-size: 2vw;
+    display: block;
+    margin-bottom: 2vw;
+}
